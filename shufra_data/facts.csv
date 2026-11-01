@@ -1,0 +1,5 @@
+key,value,description
+REG_FEE,250,דמי רישום לכל קורס בשקלים
+OFFICE_PHONE,03-0000000,טלפון המזכירות
+OFFICE_DAYS,א'–ה',ימי פעילות המזכירות
+OFFICE_HOURS,09:00–15:00,שעות פעילות המזכירות

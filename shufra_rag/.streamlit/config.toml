@@ -1,0 +1,17 @@
+# הגדרות Streamlit לפרויקט (נקרא אוטומטית כשמריצים streamlit run מתוך shufra_rag)
+
+[browser]
+# בלי שליחת נתוני שימוש של Streamlit לאינטרנט (כמו anonymized_telemetry=False ב-Chroma)
+gatherUsageStats = false
+
+[theme]
+# צבעים רגועים: כחול עמוק לכפתורים, רקע שמנת חם
+base = "light"
+primaryColor = "#1F4E79"
+backgroundColor = "#FBF8F2"
+secondaryBackgroundColor = "#F1EADB"
+textColor = "#2B2B2B"
+
+[client]
+# מסתיר את כפתור Deploy ואת תפריט המפתחים: זה ממשק לסטודנטיות
+toolbarMode = "minimal"

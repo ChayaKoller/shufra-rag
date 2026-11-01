@@ -1,0 +1,9 @@
+﻿file_path,document_id,title,category,version,updated_at,access_scope
+general/about.md,GEN-ABOUT,אודות המרחב הלימודי,general,2,2026-11-01,public
+general/faq_2025.md,GEN-FAQ,שאלות נפוצות,faq,1,2025-08-01,public
+courses/finance.md,CRS-FIN,"קורסי כספים: ACC-101, PAY-201",course,1,2026-09-01,public
+courses/design.md,CRS-DES,"קורסי עיצוב: GRD-120, GRD-220",course,1,2026-09-01,public
+courses/full_stack.md,CRS-DEV,פיתוח Full-Stack: DEV-300,course,1,2026-09-01,public
+policies/takanon.md,POL-TAKANON,תקנון הלימודים,policy,3,2026-09-01,public
+policies/registration_payments_2026.md,POL-REG,"נוהל רישום, ביטול ותשלומים",policy,3,2026-11-01,public
+tables/prices_schedule.csv,TBL-PRICES,טבלת מחירים ומועדים,table,1,2026-09-01,public
